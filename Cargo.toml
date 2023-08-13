@@ -1,0 +1,13 @@
+[package]
+name = "forestry"
+version = "0.0.1"
+authors = ["McKayla Washburn <mckayla@hey.com>"]
+description = "Like Terraform or a linter, but for your entire computer"
+keywords = []
+license = "MIT"
+homepage = "https://github.com/aslilac/forestry"
+repository = "https://github.com/aslilac/forestry"
+documentation = "https://docs.rs/forestry"
+edition = "2021"
+
+[dependencies]
